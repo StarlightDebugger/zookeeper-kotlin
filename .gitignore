@@ -1,0 +1,30 @@
+# macOS system files
+.DS_Store
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Kotlin/Java build directories
+build/
+out/
+
+# Gradle specific
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Log file
+*.log
+
+# Compiled class file
+*.class
+
+# Jar file
+*.jar
+
+# Module files
+*.ipr
+*.iws
+
+# Virtual Machine crash logs
+hs_err_pid*
